@@ -26,4 +26,5 @@ You will get additional points for:
 - clean code
 - separation of responsibilities
 - small commits (to show your progress)
-- 
+
+
